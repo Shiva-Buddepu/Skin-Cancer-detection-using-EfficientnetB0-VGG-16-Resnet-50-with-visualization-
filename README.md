@@ -1,1 +1,1 @@
-# Skin-Cancer-detection-using-EfficientnetB0-VGG-16-Resnet-50-with-visualization-
+This project focuses on skin cancer detection using advanced deep learning architectures like EfficientNetB0, VGG-16, and ResNet-50. By employing these models, it aims to improve diagnostic accuracy and efficiency. Additionally, visualization techniques are used to enhance interpretability, helping medical professionals understand model predictions and making informed decisions in dermatology. This integration of technology enhances early detection and treatment outcomes.
